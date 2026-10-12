@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class HighorLow
+public class RectangleInfo
 {
     public static void main(String[] args)
     {
